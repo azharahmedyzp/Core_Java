@@ -1,4 +1,3 @@
-````markdown
 # ATM Banking System (Java Console Application)
 
 A simple console-based **ATM Banking System** in Java that simulates basic ATM functionalities: **PIN verification**, **cash withdrawal**, **deposit**, and **balance inquiry**.
@@ -65,5 +64,4 @@ Program Closed.
 **Author:** Azhar Ahmed Pathan | [GitHub](https://github.com/azharahmedyzp)
 
 ```
-
 ---
