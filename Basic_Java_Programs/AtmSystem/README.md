@@ -61,7 +61,7 @@ Program Closed.
 ---
 
 
-**Author:** Azhar Ahmed Pathan | [GitHub](https://github.com/azharahmedyzp)
+**Author:** Azhar Ahmed Pathan | [Linkedin](https://www.linkedin.com/in/azharahmedyzp/) | [GitHub](https://github.com/azharahmedyzp)
 
 ```
----
+
