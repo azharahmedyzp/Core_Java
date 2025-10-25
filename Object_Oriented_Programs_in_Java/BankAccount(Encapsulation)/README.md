@@ -50,11 +50,13 @@ Enter Account Holder Name: Azhar Ahmed
 Enter Initial Balance: 50000
 
 ----------------------------
+
 Account Number: 987654321
 
 Account Holder: Azhar Ahmed
 
 Balance: $50000.0
+
 ----------------------------
 
 ---
@@ -71,4 +73,5 @@ Balance: $50000.0
 ## Author
 
 **Azhar Ahmed Pathan**
+
 
