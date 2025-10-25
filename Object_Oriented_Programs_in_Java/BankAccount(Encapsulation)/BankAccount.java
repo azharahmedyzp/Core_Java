@@ -1,5 +1,3 @@
-package Class.OOP.Tasks;
-
 import java.util.Scanner;
 
 class BankAcc {
@@ -71,4 +69,5 @@ public class BankAccount {
 
         userObj.displayInfo();
     }
+
 }
