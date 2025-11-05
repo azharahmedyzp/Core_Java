@@ -66,6 +66,4 @@ Calculator closed.
 - The program will continue running until the user explicitly chooses to exit
 - All inputs are validated to ensure the calculator operates correctly
 
-## License
 
-This project is open source and available under the MIT License.
